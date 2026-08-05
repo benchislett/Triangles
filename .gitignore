@@ -1,0 +1,9 @@
+TrianglePaintBench
+Primitive
+/geometrize/
+.build/
+outputs/
+.venv/
+__pycache__/
+*.pyc
+results/**/outputs/*
