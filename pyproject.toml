@@ -1,0 +1,5 @@
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "A", "PLR1704", "PLW2901"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["hill_climbing"]
