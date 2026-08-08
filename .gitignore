@@ -6,4 +6,5 @@ outputs/
 .venv/
 __pycache__/
 *.pyc
+*.log
 results/**/outputs/*
